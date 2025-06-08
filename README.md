@@ -1,2 +1,2 @@
 # pokedex
-A pokedex made using JS
+A pokedex made using JavaScript
